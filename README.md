@@ -1,7 +1,7 @@
 # starbucks-landing-page
 Main Page
 <br>
-![image](https://github.com/Likheet/starbucks-landing-page/assets/66800864/c61af0a8-1903-4e87-9911-8fe0a576f6de)
+<img width="1280" alt="image" src="https://github.com/Likheet/starbucks-landing-page/assets/66800864/48677ef1-02c3-4cb3-bf65-47110ba34325">
 <br>
 
 Screenshot(When the 2nd drink is click on)
