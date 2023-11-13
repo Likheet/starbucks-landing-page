@@ -59,7 +59,7 @@ header ul li a{
 .content .textBox h2{
     font-size: 4em;
     font-weight: 500;
-    line-height: 1.4em;
+    line-height: 1.2em;
     color: #333;
 }
 .content .textBox h2 span{
@@ -84,9 +84,9 @@ header ul li a{
 }
 .content .imgBox{
     display: flex;
-    width: 600px;
+    width: 400px;
     justify-content: flex-start;
-    padding-right: 50px;
+    padding-right: 30px;
 }
 .content .imgBox img{
     max-width: 350px;
