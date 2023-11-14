@@ -150,10 +150,6 @@ header ul li a{
 .starbucks {
     transition:0.5s;
 }
-.textBox span {
-    transition: opacity 0.5s;
-    opacity: 0;
-}
 @media (max-width: 991px){
     header{
         padding: 20px 50px;

@@ -51,31 +51,19 @@
             navigation.classList.toggle('active');
         }
         function changeCircleColor(color){
-    const circle = document.querySelector('.circle');
-    circle.style.background = color;
-
-    const span = document.querySelector('.textBox span');
-    span.style.color = color;
-}
-function imgSlider(anything){
-    const img = document.querySelector('.starbucks');
-    img.style.opacity = 0;
-    setTimeout(() => {
+        const circle = document.querySelector('.circle');
+        circle.style.background = color;
+        const span = document.querySelector('.textBox span');
+        span.style.color = color;
+        }
+        function imgSlider(anything){
+        const img = document.querySelector('.starbucks');
+        img.style.opacity = 0;
+        setTimeout(() => {
         img.src = anything;
         img.style.opacity = 1;
-    }, 500);
-}
-function imgSlider(anything){
-    const img = document.querySelector('.starbucks');
-    const text = document.querySelector('.textBox span');
-    img.style.opacity = 0;
-    text.style.opacity = 0;
-    setTimeout(() => {
-        img.src = anything;
-        img.style.opacity = 1;
-        text.style.opacity = 1;
-    }, 500);
-}
+        }, 500);
+        }
     </script>
 </body>
 </html>
